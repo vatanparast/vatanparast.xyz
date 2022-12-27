@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>no-ads on Home</title>
+    <link>https://vatanparast.xyz/tags/no-ads/</link>
+    <description>Recent content in no-ads on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Dec 2022 23:28:41 +0000</lastBuildDate><atom:link href="https://vatanparast.xyz/tags/no-ads/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome - First post</title>
+      <link>https://vatanparast.xyz/posts/welcome/</link>
+      <pubDate>Fri, 23 Dec 2022 23:28:41 +0000</pubDate>
+      
+      <guid>https://vatanparast.xyz/posts/welcome/</guid>
+      <description>With the plethora of &amp;lsquo;free&amp;rsquo; and &amp;lsquo;social&amp;rsquo; platforms for microblogging, a need for a personal blog or website seems redundant. I firmly believe in having an independent platform and not relying on ad-promoted giants. A private domain costs a few bucks annually, and hosting a website is easy and quick; can be done on free or paid servers.
+This static website has zero analytics, ads, or other nonsense. So it should be responsive and fast on desktop or mobile.</description>
+      <content:encoded><![CDATA[<p>With the plethora of &lsquo;free&rsquo; and &lsquo;social&rsquo;  platforms for microblogging, a need for a personal blog or website seems redundant. I firmly believe in having an independent platform and not relying on ad-promoted giants. A private domain costs a few bucks annually, and hosting a website is easy and quick; can be done on free or paid servers.</p>
+<p>This static website has zero analytics, ads, or other nonsense. So it should be responsive and fast on desktop or mobile.</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
