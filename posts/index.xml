@@ -16,13 +16,14 @@
       <description></description>
       <content:encoded><![CDATA[<p><img loading="lazy" src="/images/virus.jpg" type="" alt="viruses"  /></p>
 <p><img loading="lazy" src="/images/bacteria.jpg" type="" alt="bacteria"  /></p>
-<p><img loading="lazy" src="/images/plants.jpg" type="" alt="Plants"  /></p>
+<p><img loading="lazy" src="/images/fungi.jpg" type="" alt="fungi"  /></p>
+<p><img loading="lazy" src="/images/plants.jpg" type="" alt="plants"  /></p>
 <p><img loading="lazy" src="/images/trees.jpg" type="" alt="trees.jpg"  /></p>
-<p><img loading="lazy" src="/images/snakes.jpg" type="" alt="snakes.jpg"  /></p>
 <p><img loading="lazy" src="/images/fishes.jpg" type="" alt="fishes.jpg"  /></p>
+<p><img loading="lazy" src="/images/snakes.jpg" type="" alt="snakes.jpg"  /></p>
 <p><img loading="lazy" src="/images/insects.jpg" type="" alt="insects.jpg"  /></p>
 <p><img loading="lazy" src="/images/birds.jpg" type="" alt="birds.jpg"  /></p>
-<p><img loading="lazy" src="/images/mamals.jpg" type="" alt="mamals.jpg"  /></p>
+<p><img loading="lazy" src="/images/mammals.jpg" type="" alt="mammals.jpg"  /></p>
 <p><img loading="lazy" src="/images/homo.jpg" type="" alt="homo"  /></p>
 ]]></content:encoded>
     </item>
