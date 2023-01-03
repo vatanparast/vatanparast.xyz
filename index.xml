@@ -6,7 +6,34 @@
     <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2022 19:36:13 +0000</lastBuildDate><atom:link href="https://vatanparast.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2023 22:35:57 +0000</lastBuildDate><atom:link href="https://vatanparast.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sorbitol wash of DNA extraction of autumn leaves</title>
+      <link>https://vatanparast.xyz/posts/sorbitol-wash/</link>
+      <pubDate>Mon, 02 Jan 2023 22:35:57 +0000</pubDate>
+      
+      <guid>https://vatanparast.xyz/posts/sorbitol-wash/</guid>
+      <description>DNA extraction from fresh and young spring leaves is easy using the inexpensive CTAB method or expensive column kits. However, when it comes to DNA extraction from degraded autumn tree leaves, pre-wash before the CTAB step is required to get rid of the secondary compounds, which pass through to the final stages. The results would be genomic DNA contaminated with polysaccharides, polyphenols, etc.
+Ulmus autumn leaves I tried TNE (Tris, NaCl, EDTA) buffer as a pre-wash before CTAB for Ulmus species, but DNA was not precipitating well enough after keeping overnight at -20C.</description>
+      <content:encoded><![CDATA[<p>DNA extraction from fresh and young spring leaves is easy using the inexpensive CTAB method or expensive column kits. However, when it comes to DNA extraction from degraded autumn tree leaves, pre-wash before the CTAB step is required to get rid of the secondary compounds, which pass through to the final stages. The results would be genomic DNA contaminated with polysaccharides, polyphenols, etc.</p>
+<h3 id="ulmus-autumn-leaves">Ulmus autumn leaves</h3>
+<p><img loading="lazy" src="/images/Ulmus-autumn-leaves.jpg" type="" alt="Ulmus-autumn-leaves"  /></p>
+<p>I tried TNE (Tris, NaCl, EDTA) buffer as a pre-wash before CTAB for Ulmus species, but DNA was not precipitating well enough after keeping overnight at -20C. And quality, according to the NanoDrop, was not good either.</p>
+<p>Washing with Sorbitol instead of TNE improved the yield and quality of genomic DNA but could have been better. This method is described in detail in the
+<a href="https://doi.org/10.1371/journal.pone.0206085">Inglis et al. 2018</a>. I repeated both washes twice to discard the viscous supernatant.</p>
+<h3 id="samples-in-isopropyl-alcohol-tne-pre-wash">Samples in Isopropyl alcohol (TNE pre-wash)</h3>
+<p><img loading="lazy" src="/images/TNE-wash.jpg" type="" alt="TNE-wash"  /></p>
+<h3 id="samples-in-isopropyl-alcohol-sorbitol-pre-wash">Samples in Isopropyl alcohol (Sorbitol pre-wash)</h3>
+<p><img loading="lazy" src="/images/Sorbitol-wash.jpg" type="" alt="Sorbitol-wash"  /></p>
+<p>More compounds (e.g., polysaccharides, polyphenolics) were carried over to this step using TNE compared to Sorbitol. This is visible in the agarose gel images.</p>
+<h3 id="after-sorbitol-wash">After Sorbitol wash</h3>
+<p><img loading="lazy" src="/images/after-sorbitol.jpg" type="" alt="after-sorbitol"  /></p>
+<h3 id="after-tne-wash">After TNE wash</h3>
+<p><img loading="lazy" src="/images/after-TNE.jpg" type="" alt="after-TNE"  /></p>
+<p>There is room for improvement, though. If you have to extract DNA from autumn leaves, try sorbitol wash! Other options would be from buds, cambium, or woods.</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Diversity of Life</title>
       <link>https://vatanparast.xyz/posts/diversity-of-life/</link>
