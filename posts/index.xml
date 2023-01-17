@@ -6,7 +6,28 @@
     <description>Recent content in Posts on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Jan 2023 22:35:57 +0000</lastBuildDate><atom:link href="https://vatanparast.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Jan 2023 23:10:58 +0000</lastBuildDate><atom:link href="https://vatanparast.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Goodbye Twitter </title>
+      <link>https://vatanparast.xyz/posts/twitter/</link>
+      <pubDate>Mon, 16 Jan 2023 23:10:58 +0000</pubDate>
+      
+      <guid>https://vatanparast.xyz/posts/twitter/</guid>
+      <description>Twitter is one of the most popular social media platforms. Recent purchase and changes in its leadership concerned many Twitter users as they moved away from it and migrated to other Fediverse platforms like Mastodon.
+I have been a Twitter user since 2015, and while I was not an active user all the time, it was an online environment in which I cloud connect with friends and people I met in real life and share moments with them.</description>
+      <content:encoded><![CDATA[<p>Twitter is one of the most popular social media platforms. Recent purchase and changes in its leadership concerned many Twitter users as they moved away from it and migrated to other Fediverse platforms like <a href="https://joinmastodon.org/">Mastodon</a>.</p>
+<p>I have been a Twitter user since 2015, and while I was not an active user all the time, it was an online environment in which I cloud connect with friends and people I met in real life and share moments with them. Because Twitter is FREE and not charging users for the service, it comes with ads. However, numerous third-party legal apps are developed that let you access Twitter feeds without seeing ads and distractions, and Twitter&rsquo;s API provides this.</p>
+<p>Last Thursday, Twitter revoked API access to those apps like Tweetbot without proper notice or official announcement. And worse, when the developers reached Twitter on the issue, the feedback was absolute silence, even not <del>a</del> single word from <a href="https://www.theverge.com/2023/1/13/23553161/third-party-twitter-clients-apps-outage-twitterific-tweetbot">Mr. Musk</a>. It is a speculation that Twitter &lsquo;intentionally&rsquo; blocked those apps.</p>
+<p>As <a href="https://daringfireball.net/linked/2023/01/14/information-twitter-slack-confirmation">John Gruber nicely wrote</a>:</p>
+<blockquote>
+<p>Twitter can of course do what it wants, and Musk owns Twitter so he can do what he wants. But pulling the plug on these clients and ghosting everyone on communications about it is so absurdly disrespectful. Zero respect for the users for those apps, zero respect for the developers behind them — many of whom had been building on the Twitter platform for 10-15 years. Just a clown show.</p>
+</blockquote>
+<p>I have been using Tweetbot since 2016, but it stopped working last Thursday.</p>
+<p><img loading="lazy" src="/images/tweetbot.jpg" type="" alt="Tweetbot"  /></p>
+<p>It is time to use open platforms and self-hosted social networking services like <a href="https://github.com/mastodon/mastodon">Mastodon</a>. I deactivated my Twitter account, and sorry to miss contact with friends. You can now find me <a href="https://ecoevo.social/@vatan">here</a>.</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Sorbitol wash of DNA extraction of autumn leaves</title>
       <link>https://vatanparast.xyz/posts/sorbitol-wash/</link>
